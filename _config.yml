@@ -86,5 +86,5 @@ exclude_generator:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: github
-  repository: git@github.com:loslife/yilos.github.io.git
+  repository: git@github.com:loslife/loslife.github.io.git
   branch: master
