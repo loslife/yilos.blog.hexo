@@ -1,15 +1,14 @@
 ##### Menu
 menu:
-  Home: /
-  Archives: /archives
-  About: /about
+  主页: /
+  归档: /archives
+  关于乐斯: /about
 ## you can create `tags` and `categories` folders in `../source`.
 ## And create a `index.md` file in each of them.
 ## set `front-matter`as
 ## layout: tags (or categories)
 ## title: tags (or categories)
 ## ---
-
 #### Widgets
 widgets: 
 - category
@@ -37,8 +36,8 @@ index:
   
 #### Author information
 author:
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
+  intro_line1:  "乐斯技术."    ## your introduction on the bottom of the page
+  intro_line2:  "乐斯团队技术博客"  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
@@ -63,7 +62,7 @@ toc:
 #### Links
 links:
   码农圈: https://coderq.com,一个面向程序员交流分享的新一代社区
-  Jark's Blog: http://wuchong.me
+  Node.js中文社区: https://cnodejs.org/
 
   
 
